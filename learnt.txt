@@ -43,9 +43,8 @@ hao shan hao shui chu hao cha
 Al Pacino is a good guy.
 
 OK you got me. Now I am very familiar with this shit.
-<<<<<<< HEAD
-=======
 kaspersky password
 
 some one add some thing 
->>>>>>> a8a1c8a... Update learnt.txt
+
+I think I have totally dealing with all conflicts.
