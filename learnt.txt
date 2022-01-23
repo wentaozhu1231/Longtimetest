@@ -1,0 +1,19 @@
+git reset --mixed HEAD^
+git reset --hard HEAD^
+git reset --soft HEAD^
+git restore --staged xxxxx.txt
+git reset --hard <some id>
+
+These things are funny,I can even edit here.
+
+Now I decide to write some new shit.
+
+in this branch I have add some shit
+
+without knowing ,I add some new shit to remote repository
+
+now I have add something in base master.
+
+what I am focused is only on this branch and the remote one.
+
+tired of this shit,I am going to play some video game.
