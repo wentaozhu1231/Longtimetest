@@ -7,3 +7,4 @@ git reset --hard <some id>
 These things are funny,I can even edit here.
 
 Now I decide to write some new shit.
+in this branch I have add somethings
