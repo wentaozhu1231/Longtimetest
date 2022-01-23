@@ -11,3 +11,5 @@ Now I decide to write some new shit.
 in this branch I have add some shit
 
 without knowing ,I add some new shit to remote repository
+
+now I have add something in base master.
