@@ -3,5 +3,11 @@ git reset --hard HEAD^
 git reset --soft HEAD^
 git restore --staged xxxxx.txt
 git reset --hard <some id>
+<<<<<<< HEAD
 These things are funny,I can even edit here.
+<<<<<<< HEAD
 Now I decide to write some new shit.
+=======
+=======
+>>>>>>> 001888a... one more
+>>>>>>> c37195f... one more
