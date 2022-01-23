@@ -1,0 +1,4 @@
+git reset --mixed HEAD^
+git reset --hard HEAD^
+git reset --soft HEAD^
+git restore --staged xxxxx.txt
