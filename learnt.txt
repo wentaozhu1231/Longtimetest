@@ -3,3 +3,4 @@ git reset --hard HEAD^
 git reset --soft HEAD^
 git restore --staged xxxxx.txt
 git reset --hard <some id>
+These things are funny,I can even edit here.
