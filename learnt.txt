@@ -13,3 +13,6 @@ in this branch I have add some shit
 without knowing ,I add some new shit to remote repository
 
 now I have add something in base master.
+
+what I am focused is only on this branch and the remote one.
+
