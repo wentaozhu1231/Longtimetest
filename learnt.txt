@@ -4,12 +4,7 @@ git reset --soft HEAD^
 git restore --staged xxxxx.txt
 git reset --hard <some id>
 
-These things are funny,I can even edit here.
 
-Now I decide to write some new shit.
-
-in this branch I have add some shit
-XuLi zai zheli jia le yihang dongxi wo xi wang xianshi chulai 
 我日他妈老子加一行代码多大的事
 without knowing ,I add some new shit to remote repository
 
@@ -26,7 +21,6 @@ kaspersky password
 
 some one add some thing 
 
-2022/2/8/21:11
 I think I have totally dealing with all conflicts.
 
 
@@ -68,7 +62,4 @@ fresh moizer
 
 OK you got me. Now I am very familiar with this shit.
 
-here we go again
-hao shan hao shui chu hao cha
 
-Al Pacino is a good guy.
