@@ -10,6 +10,7 @@ Now I decide to write some new shit.
 
 in this branch I have add some shit
 XuLi zai zheli jia le yihang dongxi wo xi wang xianshi chulai 
+我日他妈老子加一行代码多大的事
 without knowing ,I add some new shit to remote repository
 
 now I have add something in base master.
