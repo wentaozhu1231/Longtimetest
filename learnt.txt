@@ -71,3 +71,4 @@ OK you got me. Now I am very familiar with this shit.
 2022/2/8/21:51
 2022/2/8/21:52
 我在远程加了个东西,就像是别人改了个啥
+上次主支加东西,分支的东西没了
